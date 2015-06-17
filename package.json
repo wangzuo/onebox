@@ -1,0 +1,26 @@
+{
+  "name": "onebox",
+  "version": "0.0.1",
+  "description": "[wip] onebox",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/tap/bin/run.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/onebox.git"
+  },
+  "author": "Wang Zuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangzuo/onebox/issues"
+  },
+  "homepage": "https://github.com/wangzuo/onebox#readme",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "superagent": "^1.2.0"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  }
+}
