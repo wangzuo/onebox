@@ -1,8 +1,9 @@
 'use strict';
 
-function toHtml(url) {
+function toHtml(url, cb) {
   var videoId = url.split('?v=')[1];
-  return '<iframe width="480" height="270" src="https://www.youtube.com/embed/' + videoId + '" frameborder="0" allowfullscreen></iframe>';
+
+  return cb(null, '<iframe width="480" height="270" src="https://www.youtube.com/embed/' + videoId + '" frameborder="0" allowfullscreen></iframe>');
 }
 
 module.exports = {
