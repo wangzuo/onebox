@@ -2,9 +2,11 @@
 
 var matcher = require('./matcher');
 
-module.exports = function (url) {
+module.exports = function (url, cb) {
   var engine = matcher(url);
 
   if (!engine) return '';
-  return engine.toHtml(url);
+  if (!cb) return engine.toHtml(url);
+
+  engine.toHtml(url, cb);
 };
