@@ -25,11 +25,11 @@ npm start
 ### Link support
 - [ ] amazon
 - [ ] audio
-- [ ] douban
+- [x] douban
 - [ ] github_blob
 - [ ] github_commit
-- [ ] github_gist
-- [ ] github_issue
+- [ ] githubgist
+- [ ] githubissue
 - [ ] github_pullrequest
 - [ ] google_calendar
 - [ ] google_docs
@@ -42,7 +42,7 @@ npm start
 - [x] soundcloud
 - [ ] stack_exchange
 - [ ] standard_embed
-- [ ] twitter_status
+- [ ] twitterstatus
 - [ ] video
 - [ ] whitelisted_generic
 - [ ] wikipedia
