@@ -1,14 +1,20 @@
-var http = require('http');
-var onebox = require('..');
+var fs = require('fs');
+var path = require('path');
+var express = require('express');
+var app = express();
+var onebox = require('../');
 
-var server = http.createServer(function(req, res) {
-  res.writeHead(200, {"Content-Type": "text/html"});
+app.set('view engine', 'ejs');
 
-  onebox.preview(req.url.substr(1), function(err, html) {
-    res.write(html);
-    res.end();
+app.get('/', function(req, res, next) {
+  onebox.preview(req.query.onebox, function(err, html) {
+    res.render(path.join(__dirname, 'index'), {
+      link: req.query.onebox,
+      onebox: html
+    });
   });
 });
 
-
-server.listen(7788);
+app.listen(9000, function() {
+  console.log('server listen on 9000');
+});

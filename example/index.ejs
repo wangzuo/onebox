@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>onebox</title>
+  <style type="text/css">
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+
+  input {
+    width: 100%;
+    padding: 8px 12px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+
+  .onebox {
+    margin-top: 20px;
+  }
+  </style>
+</head>
+<body>
+<form action="/" method="get">
+  <input type="text" name="onebox" value="<%= link %>"/>
+
+  <div class="onebox">
+    <%- onebox %>
+  </div>
+</form>
+</body>
+</html>

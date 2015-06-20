@@ -4,6 +4,7 @@
   "description": "[wip] onebox",
   "main": "index.js",
   "scripts": {
+    "start": "node example/server.js",
     "test": "./node_modules/tap/bin/run.js test"
   },
   "repository": {
@@ -18,11 +19,13 @@
   "homepage": "https://github.com/wangzuo/onebox#readme",
   "dependencies": {
     "cheerio": "^0.19.0",
+    "express": "^4.12.4",
     "mustache": "^2.1.2",
     "superagent": "^1.2.0"
   },
   "devDependencies": {
-    "babel": "^5.5.8",
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
     "tap": "^1.2.0"
   }
 }
