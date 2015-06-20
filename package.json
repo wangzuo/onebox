@@ -1,6 +1,6 @@
 {
   "name": "onebox",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "[wip] onebox",
   "main": "index.js",
   "scripts": {
