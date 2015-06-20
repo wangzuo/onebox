@@ -36,16 +36,21 @@ npm start
 - [ ] google_maps
 - [ ] google_play_app
 - [ ] html
-- [ ] image
+- [x] image
 - [ ] json
 - [ ] pubmed
-- [ ] soundcloud
+- [x] soundcloud
 - [ ] stack_exchange
 - [ ] standard_embed
 - [ ] twitter_status
 - [ ] video
 - [ ] whitelisted_generic
 - [ ] wikipedia
+- [ ] spotify
 - [ ] youku
 - [ ] youtube
-- [ ]
+- [x] music163song
+- [x] music163playlist
+- [ ] 404 error
+- [ ] timeout error
+- [ ] open graph
