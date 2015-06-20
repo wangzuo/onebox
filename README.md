@@ -28,8 +28,8 @@ npm start
 - [x] douban
 - [ ] github_blob
 - [ ] github_commit
-- [ ] githubgist
-- [ ] githubissue
+- [x] githubgist
+- [x] githubissue
 - [ ] github_pullrequest
 - [ ] google_calendar
 - [ ] google_docs
