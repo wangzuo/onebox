@@ -1,4 +1,4 @@
 all:
 	babel lib --out-dir dist
 clean:
-	rm dist/*
+	rm -rf dist/*

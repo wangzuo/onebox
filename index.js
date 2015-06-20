@@ -1,4 +1,4 @@
-var preview = require('./dist/preview');
+var preview = require('./lib/preview');
 
 module.exports = {
   preview: preview

@@ -1,12 +1,13 @@
 'use strict';
 
-function toHtml(url, cb) {
-  var videoId = url.split('?v=')[1];
-
-  return cb(null, '<iframe width="480" height="270" src="https://www.youtube.com/embed/' + videoId + '" frameborder="0" allowfullscreen></iframe>');
-}
-
 module.exports = {
-  regx: new RegExp('^https?://(?:www.)?(?:m.)?(?:youtube.com|youtu.be)/.+$'),
-  toHtml: toHtml
+  regexp: '^https?://(?:www.)?(?:m.)?(?:youtube.com|youtu.be)/.+$',
+
+  html: function html(link, cb) {
+    var videoId = link.split('?v=')[1];
+    var embedParams = '?';
+
+    var html = '<iframe width="480" height="270" src="https://www.youtube.com/embed/' + videoId + '' + embedParams + '" frameborder="0" allowfullscreen></iframe>';
+    cb(null, html);
+  }
 };

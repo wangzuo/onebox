@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-  twitter: require('./twitter'),
-  youtube: require('./youtube')
+  youtube: require('./youtube'),
+  githubissue: require('./githubissue')
 };

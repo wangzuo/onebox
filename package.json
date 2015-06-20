@@ -17,10 +17,11 @@
   },
   "homepage": "https://github.com/wangzuo/onebox#readme",
   "dependencies": {
-    "ejs": "^2.3.1",
+    "mustache": "^2.1.2",
     "superagent": "^1.2.0"
   },
   "devDependencies": {
+    "babel": "^5.5.8",
     "tap": "^1.2.0"
   }
 }
