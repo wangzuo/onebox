@@ -15,6 +15,7 @@ var onebox = require('onebox');
 var link = 'http://github.com/wangzuo/onebox/issues/1';
 onebox.preview(link, function(err, html) {
   if(err) throw err;
+  console.log(html);
 });
 ```
 ### Development preview server
@@ -46,9 +47,10 @@ npm start
 - [ ] video
 - [ ] whitelisted_generic
 - [ ] wikipedia
-- [ ] spotify
+- [x] spotifytrack
+- [x] spotifyalbum
 - [ ] youku
-- [ ] youtube
+- [x] youtube
 - [x] music163song
 - [x] music163playlist
 - [ ] 404 error
