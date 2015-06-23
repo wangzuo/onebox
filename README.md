@@ -53,6 +53,7 @@ npm start
 - [x] youtube
 - [x] music163song
 - [x] music163playlist
+- [ ] npm package
 - [ ] 404 error
 - [ ] timeout error
 - [ ] open graph

@@ -27,6 +27,6 @@
   "devDependencies": {
     "ejs": "^2.3.1",
     "express": "^4.12.4",
-    "tap": "^1.2.0"
+    "tape": "^4.0.0"
   }
 }
