@@ -1,5 +1,7 @@
 module.exports = [
   'http://movie.douban.com/subject/26277313/',
+  'http://music.163.com/#/playlist?id=634489',
+  'http://music.163.com/#/album?id=18900',
   'http://music.163.com/#/song?id=157288',
   'https://play.google.com/store/apps/details?id=com.mojang.minecraftpe',
   'https://github.com/wangzuo/onebox/issues/1',

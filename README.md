@@ -50,8 +50,9 @@ npm start
 - [x] spotifyalbum
 - [ ] youku
 - [x] youtube
-- [x] music163song
 - [x] music163playlist
+- [x] music163album
+- [x] music163song
 - [ ] npm package page
 - [ ] 404 error
 - [ ] timeout error
