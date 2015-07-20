@@ -22,7 +22,6 @@ onebox.preview(link, function(err, html) {
 ``` sh
 npm start
 ```
-
 ### Link support
 - [ ] amazon
 - [ ] audio
@@ -35,7 +34,7 @@ npm start
 - [ ] google_calendar
 - [ ] google_docs
 - [ ] google_maps
-- [ ] google_play_app
+- [x] googleplayapp
 - [ ] html
 - [x] image
 - [ ] json
@@ -44,7 +43,7 @@ npm start
 - [ ] stack_exchange
 - [ ] standard_embed
 - [ ] twitterstatus
-- [ ] video
+- [x] video
 - [ ] whitelisted_generic
 - [ ] wikipedia
 - [x] spotifytrack
