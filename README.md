@@ -40,7 +40,7 @@ npm start
 - [ ] json
 - [ ] pubmed
 - [x] soundcloud
-- [ ] stack_exchange
+- [x] stackexchange (stackoverflow)
 - [ ] standard_embed
 - [ ] twitterstatus
 - [x] video

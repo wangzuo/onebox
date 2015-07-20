@@ -11,5 +11,6 @@ module.exports = [
   'https://soundcloud.com/sanussi-souare/fabolous-its-my-time-ft-jeremith',
   'https://www.youtube.com/watch?v=Kznek1uNVsg',
   'https://open.spotify.com/track/318d3zDZXOxJGU24epWw32',
-  'https://open.spotify.com/album/3PogVmhNucYNfyywZvTd7F'
+  'https://open.spotify.com/album/3PogVmhNucYNfyywZvTd7F',
+  'http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode'
 ];
