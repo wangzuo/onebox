@@ -6,6 +6,7 @@ module.exports = [
   'https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=en',
   'https://github.com/wangzuo/onebox/issues/1',
   'https://gist.github.com/wangzuo/d5bd8d620b22f4baaaa9',
+  'https://github.com/wangzuo/react-input-color/pull/3',
   'http://i.imgur.com/M4K4jSH.gif',
   'http://www.w3schools.com/html/mov_bbb.mp4',
   'http://www.w3schools.com/html/horse.ogg',

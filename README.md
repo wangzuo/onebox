@@ -30,7 +30,7 @@ npm start
 - [ ] github_commit
 - [x] githubgist
 - [x] githubissue
-- [ ] github_pullrequest
+- [x] githubpullrequest
 - [ ] google_calendar
 - [ ] google_docs
 - [ ] google_maps
