@@ -8,6 +8,7 @@ module.exports = [
   'https://gist.github.com/wangzuo/d5bd8d620b22f4baaaa9',
   'http://i.imgur.com/M4K4jSH.gif',
   'http://www.w3schools.com/html/mov_bbb.mp4',
+  'http://www.w3schools.com/html/horse.ogg',
   'https://soundcloud.com/sanussi-souare/fabolous-its-my-time-ft-jeremith',
   'https://www.youtube.com/watch?v=Kznek1uNVsg',
   'https://open.spotify.com/track/318d3zDZXOxJGU24epWw32',

@@ -24,7 +24,7 @@ npm start
 ```
 ### Link support
 - [ ] amazon
-- [ ] audio
+- [x] audio
 - [x] douban
 - [ ] github_blob
 - [ ] github_commit
