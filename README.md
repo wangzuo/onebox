@@ -52,7 +52,7 @@ npm start
 - [x] youtube
 - [x] music163song
 - [x] music163playlist
-- [ ] npm package
+- [ ] npm package page
 - [ ] 404 error
 - [ ] timeout error
-- [ ] open graph
+- [x] open graph protocol

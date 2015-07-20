@@ -36,6 +36,14 @@
   <div class="onebox">
     <%- onebox %>
   </div>
+
+  <div class="links">
+    <% links.forEach(function(link) { %>
+    <div>
+      <a href="/?onebox=<%= encodeURIComponent(link) %>"><%= link %></a>
+    </div>
+    <% }); %>
+  </div>
 </form>
 </body>
 </html>
