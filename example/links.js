@@ -3,7 +3,7 @@ module.exports = [
   'http://music.163.com/#/playlist?id=634489',
   'http://music.163.com/#/album?id=18900',
   'http://music.163.com/#/song?id=157288',
-  'https://play.google.com/store/apps/details?id=com.mojang.minecraftpe',
+  'https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=en',
   'https://github.com/wangzuo/onebox/issues/1',
   'https://gist.github.com/wangzuo/d5bd8d620b22f4baaaa9',
   'http://i.imgur.com/M4K4jSH.gif',
