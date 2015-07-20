@@ -8,5 +8,6 @@ module.exports = [
   'http://www.w3schools.com/html/mov_bbb.mp4',
   'https://soundcloud.com/sanussi-souare/fabolous-its-my-time-ft-jeremith',
   'https://www.youtube.com/watch?v=Kznek1uNVsg',
-  'https://play.spotify.com/track/1qE47wUKG2juJwPoLqg4C9'
+  'https://open.spotify.com/track/318d3zDZXOxJGU24epWw32',
+  'https://open.spotify.com/album/3PogVmhNucYNfyywZvTd7F'
 ];
