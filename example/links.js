@@ -18,5 +18,8 @@ module.exports = [
   'https://open.spotify.com/album/3PogVmhNucYNfyywZvTd7F',
   'http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode',
   'https://docs.google.com/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/',
-  'https://docs.google.com/document/d/1dTvYL3Ag3QXyZ2_Aoe36D0O6TAw8PI7hpMK8_jvkIdM/pub'
+  'https://docs.google.com/document/d/1dTvYL3Ag3QXyZ2_Aoe36D0O6TAw8PI7hpMK8_jvkIdM/pub',
+  'https://www.kickstarter.com/projects/ysnet/shenmue-3',
+  'https://www.flickr.com/photos/kpalmquist/19202206876/',
+  'https://www.npmjs.com/package/onebox'
 ];

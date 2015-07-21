@@ -39,7 +39,7 @@ npm start
 - [ ] pubmed
 - [x] soundcloud
 - [x] stackexchange (stackoverflow)
-- [ ] standard_embed
+- [x] oembed
 - [ ] twitterstatus
 - [x] video
 - [ ] whitelisted_generic
@@ -55,5 +55,6 @@ npm start
 - [ ] 404 error
 - [ ] timeout error
 - [x] open graph protocol
+- [ ] normalize link
 - [ ] time format
 - [ ] string format
