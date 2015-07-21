@@ -32,12 +32,10 @@ npm start
 - [x] githubissue
 - [x] githubpullrequest
 - [ ] google_calendar
-- [ ] google_docs
+- [x] googledocs (spreadsheets|document|forms|presentation)
 - [ ] google_maps
 - [x] googleplayapp
-- [ ] html
 - [x] image
-- [ ] json
 - [ ] pubmed
 - [x] soundcloud
 - [x] stackexchange (stackoverflow)
@@ -57,3 +55,5 @@ npm start
 - [ ] 404 error
 - [ ] timeout error
 - [x] open graph protocol
+- [ ] time format
+- [ ] string format

@@ -1,4 +1,6 @@
 module.exports = [
+  'https://twitter.com/kgeorgiy/status/601043602752544769',
+  'http://www.imdb.com/title/tt0111161/',
   'http://movie.douban.com/subject/26277313/',
   'http://music.163.com/#/playlist?id=634489',
   'http://music.163.com/#/album?id=18900',
@@ -14,5 +16,7 @@ module.exports = [
   'https://www.youtube.com/watch?v=Kznek1uNVsg',
   'https://open.spotify.com/track/318d3zDZXOxJGU24epWw32',
   'https://open.spotify.com/album/3PogVmhNucYNfyywZvTd7F',
-  'http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode'
+  'http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode',
+  'https://docs.google.com/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/',
+  'https://docs.google.com/document/d/1dTvYL3Ag3QXyZ2_Aoe36D0O6TAw8PI7hpMK8_jvkIdM/pub'
 ];
