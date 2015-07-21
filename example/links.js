@@ -1,4 +1,5 @@
 module.exports = [
+  'https://www.npmjs.com/package/onebox',
   'https://twitter.com/kgeorgiy/status/601043602752544769',
   'http://www.imdb.com/title/tt0111161/',
   'http://movie.douban.com/subject/26277313/',
@@ -20,6 +21,5 @@ module.exports = [
   'https://docs.google.com/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/',
   'https://docs.google.com/document/d/1dTvYL3Ag3QXyZ2_Aoe36D0O6TAw8PI7hpMK8_jvkIdM/pub',
   'https://www.kickstarter.com/projects/ysnet/shenmue-3',
-  'https://www.flickr.com/photos/kpalmquist/19202206876/',
-  'https://www.npmjs.com/package/onebox'
+  'https://www.flickr.com/photos/kpalmquist/19202206876/'
 ];

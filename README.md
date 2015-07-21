@@ -51,7 +51,6 @@ npm start
 - [x] music163playlist
 - [x] music163album
 - [x] music163song
-- [ ] npm package page
 - [ ] 404 error
 - [ ] timeout error
 - [x] open graph protocol
