@@ -11,9 +11,26 @@ npm install onebox --save
 ```
 ### Usage
 ``` javascript
+var fs = require('fs');
+var path = require('path');
+var mustache = require('mustache');
 var onebox = require('onebox');
+
+var preview = onebox({
+  render: function(engine, data, cb) {
+    var tpath = path.join(__dirname, 'templates', engine+'.mustache');
+    fs.readFile(tpath, function(err, buf) {
+      if(err) return cb(err);
+
+      var template = buf.toString();
+      var html = mustache.render(template, data);
+      cb(null, html);
+    });
+  }
+});
+
 var link = 'http://github.com/wangzuo/onebox/issues/1';
-onebox.preview(link, function(err, html) {
+preview(link, function(err, html) {
   if(err) throw err;
   console.log(html);
 });
