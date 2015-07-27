@@ -16,6 +16,7 @@ var path = require('path');
 var mustache = require('mustache');
 var onebox = require('onebox');
 
+// custom render method for preview
 var preview = onebox({
   render: function(engine, data, cb) {
     var tpath = path.join(__dirname, 'templates', engine+'.mustache');
@@ -39,7 +40,7 @@ preview(link, function(err, html) {
 ``` sh
 npm start
 ```
-### Link support
+### Link support (engines)
 - [ ] amazon
 - [x] audio
 - [x] douban
