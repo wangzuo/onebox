@@ -57,3 +57,4 @@ npm start
 - [ ] normalize link
 - [ ] time format
 - [ ] string format
+- [ ] render as media object

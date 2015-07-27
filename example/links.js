@@ -9,7 +9,7 @@ module.exports = [
   'https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&hl=en',
   'https://github.com/wangzuo/onebox/issues/1',
   'https://gist.github.com/wangzuo/d5bd8d620b22f4baaaa9',
-  'https://github.com/wangzuo/react-input-color/pull/3',
+  'https://github.com/torvalds/linux/pull/17',
   'http://i.imgur.com/M4K4jSH.gif',
   'http://www.w3schools.com/html/mov_bbb.mp4',
   'http://www.w3schools.com/html/horse.ogg',
@@ -21,5 +21,6 @@ module.exports = [
   'https://docs.google.com/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/',
   'https://docs.google.com/document/d/1dTvYL3Ag3QXyZ2_Aoe36D0O6TAw8PI7hpMK8_jvkIdM/pub',
   'https://www.kickstarter.com/projects/ysnet/shenmue-3',
-  'https://www.flickr.com/photos/kpalmquist/19202206876/'
+  'https://www.flickr.com/photos/kpalmquist/19202206876/',
+  'https://www.v2ex.com/t/207133'
 ];
