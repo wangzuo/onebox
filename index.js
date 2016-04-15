@@ -14,9 +14,7 @@ module.exports = function(options) {
     engine.data(link, function(err, data) {
       if(err) return cb(err);
 
-      render(engineName, data, function(err, html) {
-        cb(null, html);
-      });
-    });
+      cb(null, data);
+   });
   };
 };
