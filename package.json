@@ -19,7 +19,7 @@
   "homepage": "https://github.com/wangzuo/onebox#readme",
   "dependencies": {
     "cheerio": "^0.20.0",
-    "lodash": "^4.11.1",
+    "lodash": "^4.16.4",
     "moment": "^2.10.3",
     "request": "^2.71.0"
   },
