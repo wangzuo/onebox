@@ -21,7 +21,7 @@
     "cheerio": "^0.20.0",
     "lodash": "^4.11.1",
     "moment": "^2.10.3",
-    "request": "^2.71.0"
+    "request": "^2.76.0"
   },
   "devDependencies": {
     "ejs": "^2.4.1",
